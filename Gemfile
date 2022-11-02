@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 
 
+
 # Scraping
 gem 'nokogiri'
 
@@ -12,3 +13,4 @@ gem 'rspec', '>= 3.0'
 
 # Debugging
 gem 'pry'
+
